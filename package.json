@@ -1,0 +1,18 @@
+{
+  "name": "ble-assigned-numbers",
+  "version": "0.1.0",
+  "description": "Bluetooth LE UUID rest API",
+  "main": "index.js",
+  "repository": "https://github.com/github:teanocrata/ble-assigned-numbers",
+  "author": "teanocrata <teanocrata@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
