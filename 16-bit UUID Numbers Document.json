@@ -1,0 +1,5637 @@
+[
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEFF",
+    "for": "GN Netcom"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEFE",
+    "for": "GN ReSound A/S"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEFD",
+    "for": "Gimbal, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEFC",
+    "for": "Gimbal, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEFB",
+    "for": "Telit Wireless Solutions (Formerly Stollmann E+V GmbH)"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEFA",
+    "for": "PayPal, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF9",
+    "for": "PayPal, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF8",
+    "for": "Aplix Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF7",
+    "for": "Aplix Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF6",
+    "for": "Wicentric, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF5",
+    "for": "Dialog Semiconductor GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF4",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF3",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF2",
+    "for": "CSR"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF1",
+    "for": "CSR"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEF0",
+    "for": "Intel"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEEF",
+    "for": "Polar Electro Oy "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEEE",
+    "for": "Polar Electro Oy "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEED",
+    "for": "Tile, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEEC",
+    "for": "Tile, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEEB",
+    "for": "Swirl Networks, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEEA",
+    "for": "Swirl Networks, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE9",
+    "for": "Quintic Corp."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE8",
+    "for": "Quintic Corp."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE7",
+    "for": "Tencent Holdings Limited."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE6",
+    "for": "Silvair, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE5",
+    "for": "Nordic Semiconductor ASA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE4",
+    "for": "Nordic Semiconductor ASA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE3",
+    "for": "Anki, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE2",
+    "for": "Anki, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE1",
+    "for": "Anhui Huami Information Technology Co., Ltd. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEE0",
+    "for": "Anhui Huami Information Technology Co., Ltd. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEDF",
+    "for": "Design SHIFT"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEDE",
+    "for": "Coin, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEDD",
+    "for": "Jawbone"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEDC",
+    "for": "Jawbone"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEDB",
+    "for": "Perka, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEDA",
+    "for": "ISSC Technologies Corp. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED9",
+    "for": "Pebble Technology Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED8",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED7",
+    "for": "Broadcom"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED6",
+    "for": "Broadcom"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED5",
+    "for": "Plantronics Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED4",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED3",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED2",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED1",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFED0",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFECF",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFECE",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFECD",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFECC",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFECB",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFECA",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC9",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC8",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC7",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC6",
+    "for": "Kocomojo, LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC5",
+    "for": "Realtek Semiconductor Corp."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC4",
+    "for": "PLUS Location Systems"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC3",
+    "for": "360fly, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC2",
+    "for": "Blue Spark Technologies, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC1",
+    "for": "KDDI Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEC0",
+    "for": "KDDI Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEBF",
+    "for": "Nod, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEBE",
+    "for": "Bose Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEBD",
+    "for": "Clover Network, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEBC",
+    "for": "Dexcom Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEBB",
+    "for": "adafruit industries"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEBA",
+    "for": "Tencent Holdings Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB9",
+    "for": "LG Electronics"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB8",
+    "for": "Facebook, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB7",
+    "for": "Facebook, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB6",
+    "for": "Vencer Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB5",
+    "for": "WiSilica Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB4",
+    "for": "WiSilica Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB3",
+    "for": "Taobao"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB2",
+    "for": "Microsoft Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB1",
+    "for": "Electronics Tomorrow Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEB0",
+    "for": "Nest Labs Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEAF",
+    "for": "Nest Labs Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEAE",
+    "for": "Nokia"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEAD",
+    "for": "Nokia"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEAC",
+    "for": "Nokia"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEAB",
+    "for": "Nokia"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEAA",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA9",
+    "for": "Savant Systems LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA8",
+    "for": "Savant Systems LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA7",
+    "for": "UTC Fire and Security"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA6",
+    "for": "GoPro, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA5",
+    "for": "GoPro, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA4",
+    "for": "Paxton Access Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA3",
+    "for": "ITT Industries"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA2",
+    "for": "Intrepid Control Systems, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA1",
+    "for": "Intrepid Control Systems, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFEA0",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE9F",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE9E",
+    "for": "Dialog Semiconductor B.V."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE9D",
+    "for": "Mobiquity Networks Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE9C",
+    "for": "GSI Laboratories, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE9B",
+    "for": "Samsara Networks, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE9A",
+    "for": "Estimote"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE99",
+    "for": "Currant Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE98",
+    "for": "Currant Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE97",
+    "for": "Tesla Motors Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE96",
+    "for": "Tesla Motors Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE95",
+    "for": "Xiaomi Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE94",
+    "for": "OttoQ In"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE93",
+    "for": "OttoQ In"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE92",
+    "for": "Jarden Safety & Security"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE91",
+    "for": "Shanghai Imilab Technology Co.,Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE90",
+    "for": "JUMA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE8F",
+    "for": "CSR"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE8E",
+    "for": "ARM Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE8D",
+    "for": "Interaxon Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE8C",
+    "for": "TRON Forum"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE8B",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE8A",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE89",
+    "for": "B&O Play A/S"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE88",
+    "for": "SALTO SYSTEMS S.L."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE87",
+    "for": "Qingdao Yeelink Information Technology Co., Ltd. ( "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE86",
+    "for": "HUAWEI Technologies Co., Ltd. ( 华为技术有限公司 )"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE85",
+    "for": "RF Digital Corp"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE84",
+    "for": "RF Digital Corp"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE83",
+    "for": "Blue Bite"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE82",
+    "for": "Medtronic Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE81",
+    "for": "Medtronic Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE80",
+    "for": "Doppler Lab"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE7F",
+    "for": "Doppler Lab"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE7E",
+    "for": "Awear Solutions Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE7D",
+    "for": "Aterica Health Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE7C",
+    "for": "Telit Wireless Solutions (Formerly Stollmann E+V GmbH)"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE7B",
+    "for": "Orion Labs, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE7A",
+    "for": "Bragi GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE79",
+    "for": "Zebra Technologies"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE78",
+    "for": "Hewlett-Packard Company"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE77",
+    "for": "Hewlett-Packard Company"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE76",
+    "for": "TangoMe"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE75",
+    "for": "TangoMe"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE74",
+    "for": "unwire"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE73",
+    "for": "Abbott (formerly St. Jude Medical, Inc.)"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE72",
+    "for": "Abbott (formerly St. Jude Medical, Inc.)"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE71",
+    "for": "Plume Design Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE70",
+    "for": "Beijing Jingdong Century Trading Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE6F",
+    "for": "LINE Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE6E",
+    "for": "The University of Tokyo "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE6D",
+    "for": "The University of Tokyo "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE6C",
+    "for": "TASER International, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE6B",
+    "for": "TASER International, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE6A",
+    "for": "Kontakt Micro-Location Sp. z o.o."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE69",
+    "for": "Qualcomm Life Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE68",
+    "for": "Qualcomm Life Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE67",
+    "for": "Lab Sensor Solutions"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE66",
+    "for": "Intel Corporation "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE65",
+    "for": "CHIPOLO d.o.o. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE64",
+    "for": "Siemens AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE63",
+    "for": "Connected Yard, Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE62",
+    "for": "Indagem Tech LLC "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE61",
+    "for": "Logitech International SA "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE60",
+    "for": "Lierda Science & Technology Group Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE5F",
+    "for": "Eyefi, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE5E",
+    "for": "Plastc Corporation "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE5D",
+    "for": "Grundfos A/S "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE5C",
+    "for": "million hunters GmbH "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE5B",
+    "for": "GT-tronics HK Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE5A",
+    "for": "Cronologics Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE59",
+    "for": "Nordic Semiconductor ASA "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE58",
+    "for": "Nordic Semiconductor ASA "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE57",
+    "for": "Dotted Labs "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE56",
+    "for": "Google Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE55",
+    "for": "Google Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE54",
+    "for": "Motiv, Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE53",
+    "for": "3M"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE52",
+    "for": "SetPoint Medical "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE51",
+    "for": "SRAM "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE50",
+    "for": "Google Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE4F",
+    "for": "Molekule, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE4E",
+    "for": "NTT docomo "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE4D",
+    "for": "Casambi Technologies Oy"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE4C",
+    "for": "Volkswagen AG "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE4B",
+    "for": "Signify Netherlands B.V. (formerly Philips Lighting B.V.)"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE4A",
+    "for": "OMRON HEALTHCARE Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE49",
+    "for": "SenionLab AB"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE48",
+    "for": "General Motors "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE47",
+    "for": "General Motors "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE46",
+    "for": "B&O Play A/S "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE45",
+    "for": "Snapchat Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE44",
+    "for": "SK Telecom "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE43",
+    "for": "Andreas Stihl AG & Co. KG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE42",
+    "for": "Nets A/S "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE41",
+    "for": "Inugo Systems Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE40",
+    "for": "Inugo Systems Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE3F",
+    "for": "Friday Labs Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE3E",
+    "for": "BD Medical"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE3D",
+    "for": "BD Medical"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE3C",
+    "for": "alibaba"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE3B",
+    "for": "Dolby Laboratories"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE3A",
+    "for": "TTS Tooltechnic Systems AG & Co. KG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE39",
+    "for": "TTS Tooltechnic Systems AG & Co. KG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE38",
+    "for": "Spaceek LTD"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE37",
+    "for": "Spaceek LTD"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE36",
+    "for": "HUAWEI Technologies Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE35",
+    "for": "HUAWEI Technologies Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE34",
+    "for": "SmallLoop LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE33",
+    "for": "CHIPOLO d.o.o."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE32",
+    "for": "Pro-Mark, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE31",
+    "for": "Volkswagen AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE30",
+    "for": "Volkswagen AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE2F",
+    "for": "CRESCO Wireless, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE2E",
+    "for": "ERi,Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE2D",
+    "for": "SMART INNOVATION Co.,Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE2C",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE2B",
+    "for": "ITT Industries"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE2A",
+    "for": "DaisyWorks, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE29",
+    "for": "Gibson Innovations"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE28",
+    "for": "Ayla Networks"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE27",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE26",
+    "for": "Google"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE25",
+    "for": "Apple, Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE24",
+    "for": "August Home Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE23",
+    "for": "Zoll Medical Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE22",
+    "for": "Zoll Medical Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE21",
+    "for": "Bose Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE20",
+    "for": "Emerson"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE1F",
+    "for": "Garmin International, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE1E",
+    "for": "Smart Innovations Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE1D",
+    "for": "Illuminati Instrument Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE1C",
+    "for": "NetMedia, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE1B",
+    "for": "Tyto Life LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE1A",
+    "for": "Tyto Life LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE19",
+    "for": "Google, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE18",
+    "for": "Runtime, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE17",
+    "for": "Telit Wireless Solutions GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE16",
+    "for": "Footmarks, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE15",
+    "for": "Amazon.com Services, Inc.."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE14",
+    "for": "Flextronics International USA Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE13",
+    "for": "Apple Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE12",
+    "for": "M-Way Solutions GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE11",
+    "for": "GMC-I Messtechnik GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE10",
+    "for": "LAPIS Technology Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE0F",
+    "for": "Signify Netherlands B.V. (formerly Philips Lighting B.V.)"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE0E",
+    "for": "Setec Pty Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE0D",
+    "for": "Procter & Gamble"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE0C",
+    "for": "Procter & Gamble"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE0B",
+    "for": "ruwido austria gmbh"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE0A",
+    "for": "ruwido austria gmbh"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE09",
+    "for": "Pillsy, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE08",
+    "for": "Microsoft"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE07",
+    "for": "Sonos, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE06",
+    "for": "Qualcomm Technologies, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE05",
+    "for": "CORE Transport Technologies NZ Limited "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE04",
+    "for": "OpenPath Security Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE03",
+    "for": "Amazon.com Services, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE02",
+    "for": "Robert Bosch GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE01",
+    "for": "Duracell U.S. Operations Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFE00",
+    "for": "Amazon.com Services, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDFF",
+    "for": "OSRAM GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDFE",
+    "for": "ADHERIUM(NZ) LIMITED"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDFD",
+    "for": "RecursiveSoft Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDFC",
+    "for": "Optrel AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDFB",
+    "for": "Tandem Diabetes Care"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDFA",
+    "for": "Tandem Diabetes Care"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF9",
+    "for": "INIA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF8",
+    "for": "Onvocal"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF7",
+    "for": "HP Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF6",
+    "for": "AIAIAI ApS"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF5",
+    "for": "Milwaukee Electric Tools"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF4",
+    "for": "O. E. M. Controls, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF3",
+    "for": "Amersports"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF2",
+    "for": "AMICCOM Electronics Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF1",
+    "for": "LAMPLIGHT Co.,Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDF0",
+    "for": "Google Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDEF",
+    "for": "ART AND PROGRAM, INC."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDEE",
+    "for": "Huawei Technologies Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDED",
+    "for": "Pole Star"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDEC",
+    "for": "Mannkind Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDEB",
+    "for": "Syntronix Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDEA",
+    "for": "SeeScan, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE9",
+    "for": "Spacesaver Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE8",
+    "for": "Robert Bosch GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE7",
+    "for": "SECOM Co., LTD"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE6",
+    "for": "Intelletto Technologies Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE5",
+    "for": "SMK Corporation "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE4",
+    "for": "JUUL Labs, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE3",
+    "for": "Abbott Diabetes Care"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE2",
+    "for": "Google Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE1",
+    "for": "Fortin Electronic Systems "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDE0",
+    "for": "John Deere"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDDF",
+    "for": "Harman International"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDDE",
+    "for": "Noodle Technology Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDDD",
+    "for": "Arch Systems Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDDC",
+    "for": "4iiii Innovations Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDDB",
+    "for": "Samsung Electronics Co., Ltd. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDDA",
+    "for": "MHCS"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD9",
+    "for": "Jiangsu Teranovo Tech Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD8",
+    "for": "Jiangsu Teranovo Tech Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD7",
+    "for": "Emerson"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD6",
+    "for": "Ministry of Supply "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD5",
+    "for": "Brompton Bicycle Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD4",
+    "for": "LX Solutions Pty Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD3",
+    "for": "FUBA Automotive Electronics GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD2",
+    "for": "Bose Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD1",
+    "for": "Huawei Technologies Co., Ltd "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDD0",
+    "for": "Huawei Technologies Co., Ltd "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDCF",
+    "for": "Nalu Medical, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDCE",
+    "for": "SENNHEISER electronic GmbH & Co. KG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDCD",
+    "for": "Qingping Technology (Beijing) Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDCC",
+    "for": "Shoof Technologies"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDCB",
+    "for": "Meggitt SA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDCA",
+    "for": "Fortin Electronic Systems "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC9",
+    "for": "Busch-Jaeger Elektro GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC8",
+    "for": "Hach – Danaher"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC7",
+    "for": "Eli Lilly and Company"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC6",
+    "for": "Eli Lilly and Company"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC5",
+    "for": "Automatic Labs"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC4",
+    "for": "Simavita (Aust) Pty Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC3",
+    "for": "Baidu Online Network Technology (Beijing) Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC2",
+    "for": "Baidu Online Network Technology (Beijing) Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC1",
+    "for": "Hunter Douglas"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDC0",
+    "for": "Hunter Douglas"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDBF",
+    "for": "California Things Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDBE",
+    "for": "California Things Inc. "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDBD",
+    "for": "Clover Network, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDBC",
+    "for": "Emerson"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDBB",
+    "for": "Profoto"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDBA",
+    "for": "Comcast Cable Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB9",
+    "for": "Comcast Cable Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB8",
+    "for": "LivaNova USA Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB7",
+    "for": "LivaNova USA Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB6",
+    "for": "GWA Hygiene GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB5",
+    "for": "ECSG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB4",
+    "for": "HP Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB3",
+    "for": "Audiodo AB"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB2",
+    "for": "Portable Multimedia Ltd "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB1",
+    "for": "Proxy Technologies, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDB0",
+    "for": "Proxy Technologies, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDAF",
+    "for": "Wiliot LTD"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDAE",
+    "for": "Houwa System Design, k.k."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDAD",
+    "for": "Houwa System Design, k.k."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDAC",
+    "for": "Tentacle Sync GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDAB",
+    "for": "Xiaomi Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDAA",
+    "for": "Xiaomi Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA9",
+    "for": "Rhombus Systems, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA8",
+    "for": "PSA Peugeot Citroën"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA7",
+    "for": "WWZN Information Technology Company Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA6",
+    "for": "WWZN Information Technology Company Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA5",
+    "for": "Neurostim OAB, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA4",
+    "for": "Inseego Corp."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA3",
+    "for": "Inseego Corp."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA2",
+    "for": "Groove X, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA1",
+    "for": "Groove X, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFDA0",
+    "for": "Secugen Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD9F",
+    "for": "VitalTech Affiliates LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD9E",
+    "for": "The Coca-Cola Company"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD9D",
+    "for": "Gastec Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD9C",
+    "for": "Huawei Technologies Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD9B",
+    "for": "Huawei Technologies Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD9A",
+    "for": "Huawei Technologies Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD99",
+    "for": "ABB Oy"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD98",
+    "for": "Disney Worldwide Services, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD97",
+    "for": "June Life, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD96",
+    "for": "Google LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD95",
+    "for": "Rigado"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD94",
+    "for": "Hewlett Packard Enterprise"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD93",
+    "for": "Bayerische Motoren Werke AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD92",
+    "for": "Qualcomm Technologies International, Ltd. (QTIL)  "
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD91",
+    "for": "Groove X, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD90",
+    "for": "Guangzhou SuperSound Information Technology Co.,Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD8F",
+    "for": "Matrix ComSec Pvt. Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD8E",
+    "for": "Motorola Solutions"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD8D",
+    "for": "quip NYC Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD8C",
+    "for": "Google LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD8B",
+    "for": "Jigowatts Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD8A",
+    "for": "Signify Netherlands B.V."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD89",
+    "for": "Urbanminded LTD"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD88",
+    "for": "Urbanminded LTD"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD87",
+    "for": "Google LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD86",
+    "for": "Abbott"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD85",
+    "for": "Husqvarna AB"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD84",
+    "for": "Tile, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD83",
+    "for": "iNFORM Technology GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD82",
+    "for": "Sony Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD81",
+    "for": "CANDY HOUSE, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD80",
+    "for": "Phindex Technologies, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD7F",
+    "for": "Husqvarna AB"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD7E",
+    "for": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD7D",
+    "for": "Center for Advanced Research Wernher Von Braun"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD7C",
+    "for": "Toshiba Information Systems(Japan) Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD7B",
+    "for": "WYZE LABS, INC."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD7A",
+    "for": "Withings"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD79",
+    "for": "Withings"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD78",
+    "for": "Withings"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD77",
+    "for": "Withings"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD76",
+    "for": "Insulet Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD75",
+    "for": "Insulet Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD74",
+    "for": "BRControls Products BV"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD73",
+    "for": "BRControls Products BV"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD72",
+    "for": "Logitech International SA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD71",
+    "for": "GN Hearing A/S"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD70",
+    "for": "GuangDong Oppo Mobile Telecommunications Corp., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD6F",
+    "for": "Apple, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD6E",
+    "for": "Polidea sp. z o.o."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD6D",
+    "for": "Sigma Elektro GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD6C",
+    "for": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD6B",
+    "for": "rapitag GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD6A",
+    "for": "Emerson"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD69",
+    "for": "Samsung Electronics Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD68",
+    "for": "Ubique Innovation AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD67",
+    "for": "Montblanc Simplo GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD66",
+    "for": "Zebra Technologies Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD65",
+    "for": "Razer Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD64",
+    "for": "INRIA"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD63",
+    "for": "Fitbit, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD62",
+    "for": "Fitbit, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD61",
+    "for": "Arendi AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD60",
+    "for": "Sercomm Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD5F",
+    "for": "Oculus VR, LLC"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD5E",
+    "for": "Tapkey GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD5D",
+    "for": "maxon motor ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD5C",
+    "for": "React Mobile"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD5B",
+    "for": "V2SOFT INC."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD5A",
+    "for": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD59",
+    "for": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD58",
+    "for": "Volvo Car Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD57",
+    "for": "Volvo Car Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD56",
+    "for": "Resmed Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD55",
+    "for": "Braveheart Wireless, Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD54",
+    "for": "Qingdao Haier Technology Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD53",
+    "for": "PCI Private Limited"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD52",
+    "for": "UTC Fire and Security"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD51",
+    "for": "UTC Fire and Security"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD50",
+    "for": "Hangzhou Tuya Information  Technology Co., Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD4F",
+    "for": "Forkbeard Technologies AS"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD4E",
+    "for": "70mai Co.,Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD4D",
+    "for": "70mai Co.,Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD4C",
+    "for": "Adolf Wuerth GmbH & Co KG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD4B",
+    "for": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD4A",
+    "for": "Sigma Elektro GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD49",
+    "for": "Panasonic Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD48",
+    "for": "Geberit International AG"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD47",
+    "for": "Liberty Global Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD46",
+    "for": "Lemco IKE"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD45",
+    "for": "GB Solution co.,Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD44",
+    "for": "Apple Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD43",
+    "for": "Apple Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD42",
+    "for": "Globe (Jiangsu) Co.,Ltd"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD41",
+    "for": "Amazon Lab126"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD40",
+    "for": "Beflex Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD3F",
+    "for": "Cognosos, Inc"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD3E",
+    "for": "Pure Watercraft, inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD3D",
+    "for": "Woan Technology (Shenzhen) Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD3C",
+    "for": "Redline Communications Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD3B",
+    "for": " Verkada Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD3A",
+    "for": " Verkada Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD39",
+    "for": "PREDIKTAS"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD38",
+    "for": "Danfoss A/S"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD37",
+    "for": "TireCheck GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD36",
+    "for": "Google LLC"
+  },
+  {
+    "type": "",
+    "UUID": "0xFD35",
+    "for": "Transsion Holdings Limited"
+  },
+  {
+    "type": "",
+    "UUID": "0xFD34",
+    "for": "Aerosens LLC."
+  },
+  {
+    "type": "",
+    "UUID": "0xFD33",
+    "for": "DashLogic, Inc."
+  },
+  {
+    "type": "",
+    "UUID": "0xFD32",
+    "for": "Gemalto Holding BV"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD31",
+    "for": "LG Electronics Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD30",
+    "for": "Sesam Solutions BV"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD2F",
+    "for": "Bitstrata Systems Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD2E",
+    "for": "Bitstrata Systems Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD2D",
+    "for": "Xiaomi Inc."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD2C",
+    "for": "The Access Technologies"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD2B",
+    "for": "The Access Technologies"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD2A",
+    "for": "Sony Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD29",
+    "for": "Asahi Kasei Corporation"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD28",
+    "for": "Julius Blum GmbH"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD27",
+    "for": "i2Systems"
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD26",
+    "for": "Novo Nordisk A/S"
+  },
+  {
+    "type": "",
+    "UUID": "0xFD25",
+    "for": "GD Midea Air-Conditioning Equipment Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD24",
+    "for": "GD Midea Air-Conditioning Equipment Co., Ltd."
+  },
+  {
+    "type": "16-bit UUID for Members",
+    "UUID": "0xFD23",
+    "for": "DOM Sicherheitstechnik GmbH & Co. KG"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A00",
+    "for": "Device Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A01",
+    "for": "Appearance"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A02",
+    "for": "Peripheral Privacy Flag"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A03",
+    "for": "Reconnection Address"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A04",
+    "for": "Peripheral Preferred Connection Parameters"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A05",
+    "for": "Service Changed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A06",
+    "for": "Alert Level"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A07",
+    "for": "Tx Power Level"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A08",
+    "for": "Date Time"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A09",
+    "for": "Day of Week"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A0A",
+    "for": "Day Date Time"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A0C",
+    "for": "Exact Time 256"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A0D",
+    "for": "DST Offset"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A0E",
+    "for": "Time Zone"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A0F",
+    "for": "Local Time Information"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A11",
+    "for": "Time with DST"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A12",
+    "for": "Time Accuracy"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A13",
+    "for": "Time Source"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A14",
+    "for": "Reference Time Information"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A16",
+    "for": "Time Update Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A17",
+    "for": "Time Update State"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A18",
+    "for": "Glucose Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A19",
+    "for": "Battery Level"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A1C",
+    "for": "Temperature Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A1D",
+    "for": "Temperature Type"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A1E",
+    "for": "Intermediate Temperature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A21",
+    "for": "Measurement Interval"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A22",
+    "for": "Boot Keyboard Input Report"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A23",
+    "for": "System ID"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A24",
+    "for": "Model Number String"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A25",
+    "for": "Serial Number String"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A26",
+    "for": "Firmware Revision String"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A27",
+    "for": "Hardware Revision String"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A28",
+    "for": "Software Revision String"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A29",
+    "for": "Manufacturer Name String"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A2A",
+    "for": "IEEE 11073-20601 Regulatory Certification Data List"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A2B",
+    "for": "Current Time"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A31",
+    "for": "Scan Refresh"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A32",
+    "for": "Boot Keyboard Output Report"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A33",
+    "for": "Boot Mouse Input Report"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A34",
+    "for": "Glucose Measurement Context"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A35",
+    "for": "Blood Pressure Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A36",
+    "for": "Intermediate Cuff Pressure"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A37",
+    "for": "Heart Rate Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A38",
+    "for": "Body Sensor Location"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A39",
+    "for": "Heart Rate Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A3F",
+    "for": "Alert Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A40",
+    "for": "Ringer Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A41",
+    "for": "Ringer Setting"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A42",
+    "for": "Alert Category ID Bit Mask"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A43",
+    "for": "Alert Category ID"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A44",
+    "for": "Alert Notification Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A45",
+    "for": "Unread Alert Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A46",
+    "for": "New Alert"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A47",
+    "for": "Supported New Alert Category"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A48",
+    "for": "Supported Unread Alert Category"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A49",
+    "for": "Blood Pressure Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A4A",
+    "for": "HID Information"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A4B",
+    "for": "Report Map"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A4C",
+    "for": "HID Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A4D",
+    "for": "Report"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A4E",
+    "for": "Protocol Mode"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A4F",
+    "for": "Scan Interval Window"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A50",
+    "for": "PnP ID"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A51",
+    "for": "Glucose Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A52",
+    "for": "Record Access Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A53",
+    "for": "RSC Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A54",
+    "for": "RSC Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A55",
+    "for": "SC Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A5A",
+    "for": "Aggregate"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A5B",
+    "for": "CSC Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A5C",
+    "for": "CSC Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A5D",
+    "for": "Sensor Location"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A5E",
+    "for": "PLX Spot-Check Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A5F",
+    "for": "PLX Continuous Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A60",
+    "for": "PLX Features"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A63",
+    "for": "Cycling Power Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A64",
+    "for": "Cycling Power Vector"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A65",
+    "for": "Cycling Power Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A66",
+    "for": "Cycling Power Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A67",
+    "for": "Location and Speed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A68",
+    "for": "Navigation"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A69",
+    "for": "Position Quality"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A6A",
+    "for": "LN Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A6B",
+    "for": "LN Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A6C",
+    "for": "Elevation"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A6D",
+    "for": "Pressure"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A6E",
+    "for": "Temperature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A6F",
+    "for": "Humidity"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A70",
+    "for": "True Wind Speed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A71",
+    "for": "True Wind Direction"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A72",
+    "for": "Apparent Wind Speed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A73",
+    "for": "Apparent Wind Direction "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A74",
+    "for": "Gust Factor"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A75",
+    "for": "Pollen Concentration"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A76",
+    "for": "UV Index"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A77",
+    "for": "Irradiance"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A78",
+    "for": "Rainfall"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A79",
+    "for": "Wind Chill"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A7A",
+    "for": "Heat Index"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A7B",
+    "for": "Dew Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A7D",
+    "for": " Descriptor Value Changed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A7E",
+    "for": "Aerobic Heart Rate Lower Limit"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A7F",
+    "for": "Aerobic Threshold"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A80",
+    "for": "Age"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A81",
+    "for": "Anaerobic Heart Rate Lower Limit"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A82",
+    "for": "Anaerobic Heart Rate Upper Limit"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A83",
+    "for": "Anaerobic Threshold"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A84",
+    "for": "Aerobic Heart Rate Upper Limit"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A85",
+    "for": "Date of Birth"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A86",
+    "for": "Date of Threshold Assessment"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A87",
+    "for": "Email Address"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A88",
+    "for": "Fat Burn Heart Rate Lower Limit"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A89",
+    "for": "Fat Burn Heart Rate Upper Limit"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A8A",
+    "for": "First Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A8B",
+    "for": "Five Zone Heart Rate Limits"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A8C",
+    "for": "Gender"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A8D",
+    "for": "Heart Rate Max"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A8E",
+    "for": "Height"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A8F",
+    "for": "Hip Circumference"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A90",
+    "for": "Last Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A91",
+    "for": "Maximum Recommended Heart Rate"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A92",
+    "for": "Resting Heart Rate"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A93",
+    "for": "Sport Type for Aerobic and Anaerobic Thresholds"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A94",
+    "for": "Three Zone Heart Rate Limits"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A95",
+    "for": "Two Zone Heart Rate Limits"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A96",
+    "for": "VO2 Max"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A97",
+    "for": "Waist Circumference"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A98",
+    "for": "Weight"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A99",
+    "for": "Database Change Increment"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A9A",
+    "for": "User Index"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A9B",
+    "for": "Body Composition Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A9C",
+    "for": "Body Composition Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A9D",
+    "for": "Weight Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A9E",
+    "for": "Weight Scale Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2A9F",
+    "for": "User Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA0",
+    "for": "Magnetic Flux Density - 2D"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA1",
+    "for": "Magnetic Flux Density - 3D"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA2",
+    "for": "Language"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA3",
+    "for": "Barometric Pressure Trend"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA4",
+    "for": "Bond Management Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA5",
+    "for": "Bond Management Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA6",
+    "for": "Central Address Resolution"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA7",
+    "for": "CGM Measurement"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA8",
+    "for": "CGM Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AA9",
+    "for": "CGM Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AAA",
+    "for": "CGM Session Start Time"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AAB",
+    "for": "CGM Session Run Time"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AAC",
+    "for": "CGM Specific Ops Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AAD",
+    "for": "Indoor Positioning Configuration"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AAE",
+    "for": "Latitude"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AAF",
+    "for": "Longitude"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB0",
+    "for": "Local North Coordinate"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB1",
+    "for": "Local East Coordinate"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB2",
+    "for": "Floor Number"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB3",
+    "for": "Altitude"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB4",
+    "for": "Uncertainty"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB5",
+    "for": "Location Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB6",
+    "for": "URI"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB7",
+    "for": "HTTP Headers"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB8",
+    "for": "HTTP Status Code"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AB9",
+    "for": "HTTP Entity Body"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ABA",
+    "for": "HTTP Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ABB",
+    "for": "HTTPS Security"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ABC",
+    "for": "TDS Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ABD",
+    "for": "OTS Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ABE",
+    "for": "object name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ABF",
+    "for": "object type"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC0",
+    "for": "object size"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC1",
+    "for": "object first created"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC2",
+    "for": "object last modified"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC3",
+    "for": "object ID"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC4",
+    "for": "object properties"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC5",
+    "for": "object actioncontrol point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC6",
+    "for": "object list control point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC7",
+    "for": "object list filter"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC8",
+    "for": "object changed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AC9",
+    "for": "Resolvable Private Address Only"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ACA",
+    "for": "Unspecified"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ACB",
+    "for": "Directory Listing"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ACC",
+    "for": "Fitness Machine Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ACD",
+    "for": "Treadmill Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ACE",
+    "for": "Cross Trainer Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ACF",
+    "for": "Step Climber Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD0",
+    "for": "Stair Climber Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD1",
+    "for": "Rower Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD2",
+    "for": "Indoor Bike Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD3",
+    "for": "Training Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD4",
+    "for": "Supported Speed Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD5",
+    "for": "Supported Inclination Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD6",
+    "for": "Supported Resistance Level Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD7",
+    "for": "Supported Heart Rate Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD8",
+    "for": "Supported Power Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2AD9",
+    "for": "Fitness Machine Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ADA",
+    "for": "Fitness Machine Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2ADB",
+    "for": "Mesh Provisioning Data In"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B00",
+    "for": "Luminous Flux Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B01",
+    "for": "Luminous Intensity"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B02",
+    "for": "Mass Flow"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B03",
+    "for": "Perceived Lightness"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B04",
+    "for": "Percentage 8"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B05",
+    "for": "Power"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B06",
+    "for": "Power Specification"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B07",
+    "for": "Relative Runtime In A Current Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B08",
+    "for": "Relative Runtime In A Generic Level Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B09",
+    "for": "Relative Value In A Voltage Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B0A",
+    "for": "Relative Value In An Illuminance Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B0B",
+    "for": "Relative Value In A Period Of Day"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B0C",
+    "for": "Relative Value In A Temperature Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B0D",
+    "for": "Temperature 8"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B0E",
+    "for": "Temperature 8 In A Period Of Day"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B0F",
+    "for": "Temperature 8 Statistics"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B10",
+    "for": "Temperature Range"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B11",
+    "for": "Temperature Statistics"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B12",
+    "for": "Time Decihour 8"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B13",
+    "for": "Time Exponential 8"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B14",
+    "for": "Time Hour 24"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B15",
+    "for": "Time Millisecond 24"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B16",
+    "for": "Time Second 16"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B17",
+    "for": "Time Second 8"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B18",
+    "for": "Voltage"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B19",
+    "for": "Voltage Specification"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B1A",
+    "for": "Voltage Statistics"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B1B",
+    "for": "Volume Flow"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B1C",
+    "for": "Chromaticity Coordinate "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B1D",
+    "for": "RC Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B1E",
+    "for": "RC Settings"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B1F",
+    "for": "Reconnection Configuration Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B20",
+    "for": "IDD Status Changed"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B21",
+    "for": "IDD Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B22",
+    "for": "IDD Annunciation Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B23",
+    "for": "IDD Features"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B24",
+    "for": "IDD Status Reader Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B25",
+    "for": "IDD Command Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B26",
+    "for": "IDD Command Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B27",
+    "for": "IDD Record Access Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B28",
+    "for": "IDD History Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B29",
+    "for": "Client Supported Features"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B2A",
+    "for": "Database Hash"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B2B",
+    "for": "BSS Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B2C",
+    "for": "BSS Response"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B2D",
+    "for": "Emergency ID"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B2E",
+    "for": "Emergency Text"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B34",
+    "for": "Enhanced Blood Pressure Measurement "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B35",
+    "for": "Enhanced Intermediate Cuff Pressure "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B36",
+    "for": "Blood Pressure Record "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B38",
+    "for": "BR-EDR Handover Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B39",
+    "for": "Bluetooth SIG Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B3A",
+    "for": "Server Supported Features"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B3B",
+    "for": "Physical Activity Monitor Features "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B3C",
+    "for": "General Activity Instantaneous Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B3D",
+    "for": "General Activity Summary Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B3E",
+    "for": "CardioRespiratory Activity Instantaneous Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B3F",
+    "for": "CardioRespiratory Activity Summary Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B40",
+    "for": "Step Counter Activity Summary Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B41",
+    "for": "Sleep Activity Instantaneous Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B42",
+    "for": "Sleep Activity Summary Data "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B43",
+    "for": "Physical Activity Monitor Control Point "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B44",
+    "for": "Current Session"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B45",
+    "for": "Session"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B46",
+    "for": "Preferred Units"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B47",
+    "for": "High Resolution Height"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B48",
+    "for": "Middle Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B49",
+    "for": "Stride Length"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B4A",
+    "for": "Handedness"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B4B",
+    "for": "Device Wearing Position"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B4C",
+    "for": "Four Zone Heart Rate Limits"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B4D",
+    "for": "High Intensity Exercise Threshold"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B4E",
+    "for": "Activity Goal"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B4F",
+    "for": "Sedentary Interval Notification"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B50",
+    "for": "Caloric Intake"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B77",
+    "for": "Audio Input State"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B78",
+    "for": "Gain Settings Attribute"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B79",
+    "for": "Audio Input Type"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B7A",
+    "for": "Audio Input Status"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B7B",
+    "for": "Audio Input Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B7C",
+    "for": "Audio Input Description"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B7D",
+    "for": "Volume State"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B7E",
+    "for": "Volume Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B7F",
+    "for": "Volume Flags"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B80",
+    "for": "Offset State"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B81",
+    "for": "Audio Location"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B82",
+    "for": "Volume Offset Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B83",
+    "for": "Audio Output Description"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B84",
+    "for": "Set Identity Resolving Key Characteristic"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B85",
+    "for": "Size Characteristic"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B86",
+    "for": "Lock Characteristic"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B87",
+    "for": "Rank Characteristic"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B8E",
+    "for": "Device Time Feature"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B8F",
+    "for": "Device Time Parameters"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B90",
+    "for": "Device Time"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B91",
+    "for": "Device Time Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B92",
+    "for": "Time Change Log Data"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B93",
+    "for": "Media Player Name "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B94",
+    "for": "Media Player Icon Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B95",
+    "for": "Media Player Icon URL "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B96",
+    "for": "Track Changed "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B97",
+    "for": "Track Title "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B98",
+    "for": "Track Duration "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B99",
+    "for": "Track Position "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B9A",
+    "for": "Playback Speed "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B9B",
+    "for": "Seeking Speed "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B9C",
+    "for": "Current Track Segments Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B9D",
+    "for": "Current Track Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B9E",
+    "for": "Next Track Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2B9F",
+    "for": "Parent Group Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA0",
+    "for": "Current Group Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA1",
+    "for": "Playing Order "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA2",
+    "for": "Playing Orders Supported "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA3",
+    "for": "Media State "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA4",
+    "for": "Media Control Point "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA5",
+    "for": "Media Control Point Opcodes Supported "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA6",
+    "for": "Search Results Object ID "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA7",
+    "for": "Search Control Point "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BA9",
+    "for": "Media Player Icon Object Type "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BAA",
+    "for": "Track Segments Object Type "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BAB",
+    "for": "Track Object Type "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BAC",
+    "for": "Group Object Type "
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BAD",
+    "for": "Constant Tone Extension Enable"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BAE",
+    "for": "Advertising Constant Tone Extension Minimum Length"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BAF",
+    "for": "Advertising Constant Tone Extension Minimum Transmit Count"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB0",
+    "for": "Advertising Constant Tone Extension Transmit Duration"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB1",
+    "for": "Advertising Constant Tone Extension Interval"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB2",
+    "for": "Advertising Constant Tone Extension PHY"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB3",
+    "for": "Bearer Provider Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB4",
+    "for": "Bearer UCI"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB5",
+    "for": "Bearer Technology"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB6",
+    "for": "Bearer URI Schemes Supported List"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB7",
+    "for": "Bearer Signal Strength"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB8",
+    "for": "Bearer Signal Strength Reporting Interval"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BB9",
+    "for": "Bearer List Current Calls"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BBA",
+    "for": "Content Control ID"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BBB",
+    "for": "Status Flags"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BBC",
+    "for": "Incoming Call Target Bearer URI"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BBD",
+    "for": "Call State"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BBE",
+    "for": "Call Control Point"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BBF",
+    "for": "Call Control Point Optional Opcodes"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BC0",
+    "for": "Termination Reason"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BC1",
+    "for": "Incoming Call"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BC2",
+    "for": "Call Friendly Name"
+  },
+  {
+    "type": "GATT Characteristic and Object Type",
+    "UUID": "0x2BC3",
+    "for": "Mute"
+  },
+  {
+    "type": "GATT Declarations ",
+    "UUID": "0x2800",
+    "for": "Primary Service"
+  },
+  {
+    "type": "GATT Declarations ",
+    "UUID": "0x2801",
+    "for": "Secondary Service"
+  },
+  {
+    "type": "GATT Declarations ",
+    "UUID": "0x2802",
+    "for": "Include"
+  },
+  {
+    "type": "GATT Declarations ",
+    "UUID": "0x2803",
+    "for": "Characteristic"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2900",
+    "for": "Characteristic Extended Properties"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2901",
+    "for": "Characteristic User Description"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2902",
+    "for": "Client Characteristic Configuration"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2903",
+    "for": "Server Characteristic Configuration"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2904",
+    "for": "Characteristic Presentation Format"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2905",
+    "for": "Characteristic Aggregate Format"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2906",
+    "for": "Valid Range"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2907",
+    "for": "External Report Reference"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2908",
+    "for": "Report Reference"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x2909",
+    "for": "Number of Digitals"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x290A",
+    "for": "Value Trigger Setting"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x290B",
+    "for": "Environmental Sensing Configuration"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x290C",
+    "for": "Environmental Sensing Measurement"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x290D",
+    "for": "Environmental Sensing Trigger Setting"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x290E",
+    "for": "Time Trigger Setting"
+  },
+  {
+    "type": "GATT Descriptor",
+    "UUID": "0x290F",
+    "for": "Complete BR-EDR Transport Block Data "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1800",
+    "for": "Generic Access"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1801",
+    "for": "Generic Attribute"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1802",
+    "for": "Immediate Alert"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1803",
+    "for": "Link Loss"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1804",
+    "for": "Tx Power"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1805",
+    "for": "Current Time"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1806",
+    "for": "Reference Time Update "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1807",
+    "for": "Next DST Change "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1808",
+    "for": "Glucose"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1809",
+    "for": "Health Thermometer"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x180A",
+    "for": "Device Information"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x180D",
+    "for": "Heart Rate"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x180E",
+    "for": "Phone Alert Status "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x180F",
+    "for": "Battery"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1810",
+    "for": "Blood Pressure"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1811",
+    "for": "Alert Notification "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1812",
+    "for": "Human Interface Device"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1813",
+    "for": "Scan Parameters"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1814",
+    "for": "Running Speed and Cadence"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1815",
+    "for": "Automation IO"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1816",
+    "for": "Cycling Speed and Cadence"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1818",
+    "for": "Cycling Power"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1819",
+    "for": "Location and Navigation"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x181A",
+    "for": "Environmental Sensing"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x181B",
+    "for": "Body Composition"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x181C",
+    "for": "User Data"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x181D",
+    "for": "Weight Scale"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x181E",
+    "for": "Bond Management "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x181F",
+    "for": "Continuous Glucose Monitoring "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1820",
+    "for": "Internet Protocol Support"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1821",
+    "for": "Indoor Positioning "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1822",
+    "for": "Pulse Oximeter"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1823",
+    "for": "HTTP Proxy"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1824",
+    "for": "Transport Discovery "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1825",
+    "for": "Object Transfer "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1826",
+    "for": "Fitness Machine"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1827",
+    "for": "Mesh Provisioning "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1828",
+    "for": "Mesh Proxy"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1829",
+    "for": "Reconnection Configuration "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x183A",
+    "for": "Insulin Delivery "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x183B",
+    "for": "Binary Sensor"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x183C",
+    "for": "Emergency Configuration"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x183E",
+    "for": "Physical Activity Monitor "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1843",
+    "for": "Audio Input Control "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1844",
+    "for": "Volume Control"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1845",
+    "for": "Volume Offset Control"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1846",
+    "for": "Coordinated Set Identification Service"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1847",
+    "for": "Device Time"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1848",
+    "for": "Media Control Service "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x1849",
+    "for": "Generic Media Control Service "
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x184A",
+    "for": "Constant Tone Extension"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x184B",
+    "for": "Telephone Bearer Service"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x184C",
+    "for": "Generic Telephone Bearer Service"
+  },
+  {
+    "type": "GATT Service",
+    "UUID": "0x184D",
+    "for": "Microphone Control"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2700",
+    "for": "unitless"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2701",
+    "for": "length (metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2702",
+    "for": "mass (kilogram)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2703",
+    "for": "time (second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2704",
+    "for": "electric current (ampere)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2705",
+    "for": "thermodynamic temperature (kelvin)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2706",
+    "for": "amount of substance (mole)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2707",
+    "for": "luminous intensity (candela)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2710",
+    "for": "area (square metres)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2711",
+    "for": "volume (cubic metres)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2712",
+    "for": "velocity (metres per second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2713",
+    "for": "acceleration (metres per second squared)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2714",
+    "for": "wavenumber (reciprocal metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2715",
+    "for": "density (kilogram per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2716",
+    "for": "surface density (kilogram per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2717",
+    "for": "specific volume (cubic metre per kilogram)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2718",
+    "for": "current density (ampere per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2719",
+    "for": "magnetic field strength (ampere per metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x271A",
+    "for": "amount concentration (mole per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x271B",
+    "for": "mass concentration (kilogram per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x271C",
+    "for": "luminance (candela per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x271D",
+    "for": "refractive index"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x271E",
+    "for": "relative permeability"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2720",
+    "for": "plane angle (radian)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2721",
+    "for": "solid angle (steradian)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2722",
+    "for": "frequency (hertz)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2723",
+    "for": "force (newton)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2724",
+    "for": "pressure (pascal)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2725",
+    "for": "energy (joule)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2726",
+    "for": "power (watt)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2727",
+    "for": "electric charge (coulomb)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2728",
+    "for": "electric potential difference (volt)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2729",
+    "for": "capacitance (farad)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x272A",
+    "for": "electric resistance (ohm)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x272B",
+    "for": "electric conductance (siemens)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x272C",
+    "for": "magnetic flux (weber)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x272D",
+    "for": "magnetic flux density (tesla)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x272E",
+    "for": "inductance (henry)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x272F",
+    "for": "Celsius temperature (degree Celsius)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2730",
+    "for": "luminous flux (lumen)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2731",
+    "for": "illuminance (lux)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2732",
+    "for": "activity referred to a radionuclide (becquerel)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2733",
+    "for": "absorbed dose (gray)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2734",
+    "for": "dose equivalent (sievert)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2735",
+    "for": "catalytic activity (katal)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2740",
+    "for": "dynamic viscosity (pascal second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2741",
+    "for": "moment of force (newton metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2742",
+    "for": "surface tension (newton per metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2743",
+    "for": "angular velocity (radian per second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2744",
+    "for": "angular acceleration (radian per second squared)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2745",
+    "for": "heat flux density (watt per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2746",
+    "for": "heat capacity (joule per kelvin)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2747",
+    "for": "specific heat capacity (joule per kilogram kelvin)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2748",
+    "for": "specific energy (joule per kilogram)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2749",
+    "for": "thermal conductivity (watt per metre kelvin)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x274A",
+    "for": "energy density (joule per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x274B",
+    "for": "electric field strength (volt per metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x274C",
+    "for": "electric charge density (coulomb per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x274D",
+    "for": "surface charge density (coulomb per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x274E",
+    "for": "electric flux density (coulomb per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x274F",
+    "for": "permittivity (farad per metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2750",
+    "for": "permeability (henry per metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2751",
+    "for": "molar energy (joule per mole)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2752",
+    "for": "molar entropy (joule per mole kelvin)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2753",
+    "for": "exposure (coulomb per kilogram)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2754",
+    "for": "absorbed dose rate (gray per second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2755",
+    "for": "radiant intensity (watt per steradian)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2756",
+    "for": "radiance (watt per square metre steradian)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2757",
+    "for": "catalytic activity concentration (katal per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2760",
+    "for": "time (minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2761",
+    "for": "time (hour)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2762",
+    "for": "time (day)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2763",
+    "for": "plane angle (degree)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2764",
+    "for": "plane angle (minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2765",
+    "for": "plane angle (second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2766",
+    "for": "area (hectare)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2767",
+    "for": "volume (litre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2768",
+    "for": "mass (tonne)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2780",
+    "for": "pressure (bar)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2781",
+    "for": "pressure (millimetre of mercury)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2782",
+    "for": "length (ångström)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2783",
+    "for": "length (nautical mile)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2784",
+    "for": "area (barn)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2785",
+    "for": "velocity (knot)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2786",
+    "for": "logarithmic radio quantity (neper)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x2787",
+    "for": "logarithmic radio quantity (bel)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A0",
+    "for": "length (yard)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A1",
+    "for": "length (parsec)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A2",
+    "for": "length (inch)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A3",
+    "for": "length (foot)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A4",
+    "for": "length (mile)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A5",
+    "for": "pressure (pound-force per square inch)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A6",
+    "for": "velocity (kilometre per hour)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A7",
+    "for": "velocity (mile per hour)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A8",
+    "for": "angular velocity (revolution per minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27A9",
+    "for": "energy (gram calorie)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27AA",
+    "for": "energy (kilogram calorie)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27AB",
+    "for": "energy (kilowatt hour)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27AC",
+    "for": "thermodynamic temperature (degree Fahrenheit)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27AD",
+    "for": "percentage"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27AE",
+    "for": "per mille"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27AF",
+    "for": "period (beats per minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B0",
+    "for": "electric charge (ampere hours)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B1",
+    "for": "mass density (milligram per decilitre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B2",
+    "for": "mass density (millimole per litre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B3",
+    "for": "time (year)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B4",
+    "for": "time (month)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B5",
+    "for": "concentration (count per cubic metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B6",
+    "for": "irradiance (watt per square metre)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B7",
+    "for": "milliliter (per kilogram per minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B8",
+    "for": "mass (pound)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27B9",
+    "for": "metabolic equivalent"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27BA",
+    "for": "step (per minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27BC",
+    "for": "stroke (per minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27BD",
+    "for": "pace (kilometre per minute)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27BE",
+    "for": "luminous efficacy (lumen per watt)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27BF",
+    "for": "luminous energy (lumen hour)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27C0",
+    "for": "luminous exposure (lux hour)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27C1",
+    "for": "mass flow (gram per second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27C2",
+    "for": "volume flow (litre per second)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27C3",
+    "for": "sound pressure (decible)"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27C4",
+    "for": "parts per million"
+  },
+  {
+    "type": "GATT Unit ",
+    "UUID": "0x27C5",
+    "for": "parts per billion"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0001",
+    "for": " SDP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0002",
+    "for": " UDP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0003",
+    "for": " RFCOMM"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0004",
+    "for": " TCP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0005",
+    "for": " TCS-BIN"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0006",
+    "for": " TCS-AT"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0007",
+    "for": "ATT"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0008",
+    "for": " OBEX"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0009",
+    "for": " IP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x000A",
+    "for": " FTP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x000C",
+    "for": " HTTP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x000E",
+    "for": " WSP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x000F",
+    "for": "BNEP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0010",
+    "for": " UPNP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0011",
+    "for": " HIDP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0012",
+    "for": "HardcopyControlChannel"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0014",
+    "for": "HardcopyDataChannel"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0016",
+    "for": " HardcopyNotification"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0017",
+    "for": "AVCTP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0019",
+    "for": " AVDTP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x001B",
+    "for": " CMTP"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x001E",
+    "for": " MCAPControlChannel"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x001F",
+    "for": " MCAPDataChannel"
+  },
+  {
+    "type": "Protocol Identifier",
+    "UUID": "0x0100",
+    "for": " L2CAP"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF3",
+    "for": "FiRa Consortium"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF4",
+    "for": "FiRa Consortium"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF5",
+    "for": "Car Connectivity Consortium, LLC"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF6",
+    "for": "ZigBee Alliance"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF7",
+    "for": "ZigBee Alliance"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF8",
+    "for": "Mopria Alliance"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFF9",
+    "for": "Fast IDentity Online Alliance (FIDO)"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFFA",
+    "for": "ASTM International"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFFB",
+    "for": "Thread Group, Inc."
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFFC",
+    "for": "AirFuel Alliance"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFFD",
+    "for": "Fast IDentity Online Alliance (FIDO)"
+  },
+  {
+    "type": "SDO GATT Service",
+    "UUID": "0xFFFE",
+    "for": "AirFuel Alliance (formerly Alliance for Wireless Power)"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1000",
+    "for": "ServiceDiscoveryServerServiceClassID"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1001",
+    "for": "BrowseGroupDescriptorServiceClassID"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1101",
+    "for": "SerialPort"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1102",
+    "for": "LANAccessUsingPPP"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1103",
+    "for": "DialupNetworking"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1104",
+    "for": "IrMCSync"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1105",
+    "for": "OBEXObjectPush"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1106",
+    "for": "OBEXFileTransfer"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1107",
+    "for": "IrMCSyncCommand"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1108",
+    "for": "Headset"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1109",
+    "for": "CordlessTelephony"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x110A",
+    "for": "AudioSource"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x110B",
+    "for": "AudioSink"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x110C",
+    "for": "A/V_RemoteControlTarget"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x110D",
+    "for": "AdvancedAudioDistribution"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x110E",
+    "for": "A/V_RemoteControl"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x110F",
+    "for": "A/V_RemoteControlController"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1110",
+    "for": "Intercom"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1111",
+    "for": "Fax"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1112",
+    "for": "Headset - Audio Gateway "
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1113",
+    "for": "WAP"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1114",
+    "for": "WAP_CLIENT"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1115",
+    "for": "PANU"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1116",
+    "for": "NAP"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1117",
+    "for": "GN"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1118",
+    "for": "DirectPrinting"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1119",
+    "for": "ReferencePrinting"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x111A",
+    "for": "Basic Imaging Profile"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x111B",
+    "for": "ImagingResponder"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x111C",
+    "for": "ImagingAutomaticArchive"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x111D",
+    "for": "ImagingReferencedObjects"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x111E",
+    "for": "Handsfree"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x111F",
+    "for": "HandsfreeAudioGateway"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1120",
+    "for": "DirectPrintingReferenceObjectsService"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1121",
+    "for": "ReflectedUI"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1122",
+    "for": "BasicPrinting"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1123",
+    "for": "PrintingStatus"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1124",
+    "for": "HumanInterfaceDeviceService"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1125",
+    "for": "HardcopyCableReplacement"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1126",
+    "for": "HCR_Print"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1127",
+    "for": "HCR_Scan"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1128",
+    "for": "Common_ISDN_Access"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x112D",
+    "for": "SIM_Access"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x112E",
+    "for": "Phonebook Access - PCE"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x112F",
+    "for": "Phonebook Access - PSE"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1130",
+    "for": "Phonebook Access"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1131",
+    "for": "Headset - HS"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1132",
+    "for": "Message Access Server"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1133",
+    "for": "Message Notification Server"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1134",
+    "for": "Message Access Profile"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1135",
+    "for": "GNSS"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1136",
+    "for": "GNSS_Server"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1137",
+    "for": "3D Display"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1138",
+    "for": "3D Glasses"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1139",
+    "for": "3D Synchronization"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x113A",
+    "for": "MPS Profile UUID"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x113B",
+    "for": "MPS SC UUID"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x113C",
+    "for": "CTN Access Service"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x113D",
+    "for": "CTN Notification Service"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x113E",
+    "for": "CTN Profile"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1200",
+    "for": "PnPInformation"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1201",
+    "for": "GenericNetworking"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1202",
+    "for": "GenericFileTransfer"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1203",
+    "for": "GenericAudio"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1204",
+    "for": "GenericTelephony"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1205",
+    "for": "UPNP_Service"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1206",
+    "for": "UPNP_IP_Service"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1300",
+    "for": "ESDP_UPNP_IP_PAN"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1301",
+    "for": "ESDP_UPNP_IP_LAP"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1302",
+    "for": "ESDP_UPNP_L2CAP"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1303",
+    "for": "VideoSource"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1304",
+    "for": "VideoSink"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1305",
+    "for": "VideoDistribution"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1400",
+    "for": "HDP"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1401",
+    "for": "HDP Source"
+  },
+  {
+    "type": "Service Classes and Profiles",
+    "UUID": "0x1402",
+    "for": "HDP Sink"
+  }
+]
