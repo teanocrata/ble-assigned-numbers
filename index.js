@@ -35,6 +35,10 @@ pdf(dataBuffer).then(function (data) {
 		result.push(uuid);
 
 		fs.writeFileSync(`dist/uuids/${uuid.UUID}.json`, JSON.stringify(uuid, null, 2));
+		if (!fs.existsSync(`dist/uuids/${uuid.UUID}`)) {
+			fs.mkdirSync(`dist/uuids/${uuid.UUID}`);
+		}
+		fs.writeFileSync(`dist/uuids/${uuid.UUID}/index.html`, `<pre>\n${JSON.stringify(uuid, null, 2)}\n</pre>`);
 	}
 	fs.writeFileSync('dist/16-bit UUID Numbers Document.json', JSON.stringify(result, null, 2));
 	fs.writeFileSync(
@@ -48,6 +52,16 @@ pdf(dataBuffer).then(function (data) {
 			.map((uuid) => `${uuid.UUID}: <a href="./uuids/${uuid.UUID}.json">${uuid.UUID}.json</a>`)
 			.join(',\n        ')}
     }
+}
+</pre>
+`
+	);
+	fs.writeFileSync(
+		'dist/uuids/index.html',
+		`
+<pre>
+{
+    ${result.map((uuid) => `${uuid.UUID}: <a href="./uuids/${uuid.UUID}.json">${uuid.UUID}.json</a>`).join(',\n    ')}
 }
 </pre>
 `
