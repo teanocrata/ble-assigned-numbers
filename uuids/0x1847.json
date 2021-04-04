@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1847",
+  "for": "Device Time"
+}

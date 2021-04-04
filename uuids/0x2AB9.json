@@ -1,0 +1,5 @@
+{
+  "type": "GATT Characteristic and Object Type",
+  "UUID": "0x2AB9",
+  "for": "HTTP Entity Body"
+}

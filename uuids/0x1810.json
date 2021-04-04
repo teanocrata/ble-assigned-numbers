@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1810",
+  "for": "Blood Pressure"
+}

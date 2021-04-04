@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x181D",
+  "for": "Weight Scale"
+}

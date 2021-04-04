@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x181F",
+  "for": "Continuous Glucose Monitoring "
+}

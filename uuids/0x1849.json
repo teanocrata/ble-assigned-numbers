@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1849",
+  "for": "Generic Media Control Service "
+}

@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x184B",
+  "for": "Telephone Bearer Service"
+}

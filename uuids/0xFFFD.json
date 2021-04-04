@@ -1,0 +1,5 @@
+{
+  "type": "SDO GATT Service",
+  "UUID": "0xFFFD",
+  "for": "Fast IDentity Online Alliance (FIDO)"
+}

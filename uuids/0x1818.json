@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1818",
+  "for": "Cycling Power"
+}

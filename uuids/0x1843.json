@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1843",
+  "for": "Audio Input Control "
+}

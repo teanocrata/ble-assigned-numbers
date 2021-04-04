@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1820",
+  "for": "Internet Protocol Support"
+}

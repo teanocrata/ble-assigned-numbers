@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x183A",
+  "for": "Insulin Delivery "
+}

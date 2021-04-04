@@ -1,0 +1,5 @@
+{
+  "type": "GATT Descriptor",
+  "UUID": "0x290C",
+  "for": "Environmental Sensing Measurement"
+}

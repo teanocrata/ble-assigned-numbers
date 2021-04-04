@@ -1,0 +1,5 @@
+{
+  "type": "GATT Descriptor",
+  "UUID": "0x290D",
+  "for": "Environmental Sensing Trigger Setting"
+}

@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1825",
+  "for": "Object Transfer "
+}

@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1815",
+  "for": "Automation IO"
+}

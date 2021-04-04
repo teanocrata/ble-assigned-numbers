@@ -1,0 +1,5 @@
+{
+  "type": "SDO GATT Service",
+  "UUID": "0xFFFE",
+  "for": "AirFuel Alliance (formerly Alliance for Wireless Power)"
+}

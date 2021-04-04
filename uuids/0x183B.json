@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x183B",
+  "for": "Binary Sensor"
+}

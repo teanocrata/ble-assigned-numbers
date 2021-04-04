@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x183E",
+  "for": "Physical Activity Monitor "
+}

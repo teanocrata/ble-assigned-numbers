@@ -1,0 +1,5 @@
+{
+  "type": "SDO GATT Service",
+  "UUID": "0xFFFB",
+  "for": "Thread Group, Inc."
+}

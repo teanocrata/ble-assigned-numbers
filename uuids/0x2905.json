@@ -1,0 +1,5 @@
+{
+  "type": "GATT Descriptor",
+  "UUID": "0x2905",
+  "for": "Characteristic Aggregate Format"
+}

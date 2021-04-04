@@ -1,0 +1,5 @@
+{
+  "type": "GATT Service",
+  "UUID": "0x1816",
+  "for": "Cycling Speed and Cadence"
+}

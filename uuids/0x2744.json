@@ -1,0 +1,5 @@
+{
+  "type": "GATT Unit ",
+  "UUID": "0x2744",
+  "for": "angular acceleration (radian per second squared)"
+}
