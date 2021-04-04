@@ -7,6 +7,7 @@
   "author": "teanocrata <teanocrata@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "build": "node ./index.js",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
